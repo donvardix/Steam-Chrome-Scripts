@@ -5,3 +5,4 @@
 ## Абуз опыта в игре Saliens Летняя распродажа:
 - Заходим в **[игру](https://steamcommunity.com/saliengame/play/)** на любой участок
 - Вставляем **[код](https://github.com/donvardix/steam/blob/master/abuse.js)** в консоль
+- (`Пример`)
