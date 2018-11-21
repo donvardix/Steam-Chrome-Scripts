@@ -1,4 +1,4 @@
-ShowBlockingWaitDialog("Nominating...", "");
+ShowBlockingWaitDialog("Подождите 5 секунд!", "");
 var Nominations = [
 	578080,
 	342180,
