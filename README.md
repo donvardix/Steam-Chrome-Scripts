@@ -1,4 +1,4 @@
-### Скрипт для получения карточек летней распродажи:
+## Скрипт для получения карточек летней распродажи:
 - В браузере переходите в **[Steam](http://store.steampowered.com/explore/)**;
 - Вставляем **[скрипт](https://github.com/donvardix/steam/blob/master/steam_scrips/sales_cards.js)** в консоль.
 ---
